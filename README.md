@@ -13,7 +13,7 @@ Welcome to follow and star!
   - Yao Mu, Shoufa Chen, Mingyu Ding
   - Publisher: ICLM 2022 (Spotlight)
   - Key: Reinforcement Learning, Transfer Learning, Representation Learning
-  - Code: [official](https://github.com/YaoMarkMu/CtrlFormer_robotic)
+  - Code: [official](https://github.com/YaoMarkMu/CtrlFormer_robotic), [simplified single task version](https://github.com/YaoMarkMu/ViT4RL)
   - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py)
   
 - [AnyMorph: Learning Transferable Polices By Inferring Agent Morphology](https://arxiv.org/abs/2206.12279)
