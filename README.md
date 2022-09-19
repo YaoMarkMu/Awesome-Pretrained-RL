@@ -18,7 +18,7 @@ Welcome to follow and star!
   
 - [AnyMorph: Learning Transferable Polices By Inferring Agent Morphology](https://arxiv.org/abs/2206.12279)
   - Brandon Trabucco, Mariano Phielipp, Glen Berseth
-  - Publisher: ICML 2022 (Poster)
+  - Publisher: ICML 2022 (Spotlight)
   - Key: Morphology, Transfer Learning, Zero Shot
   - ExpEnv: [Modular-RL](https://github.com/huangwl18/modular-rl)
 
