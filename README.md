@@ -10,7 +10,7 @@ Welcome to follow and star!
 ## Learn Transferable Policies and Representations with Transformer
 
 - [CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer](https://arxiv.org/abs/2206.08883?context=cs.LG)
-  - Yao Mu, Shoufa Chen, Mingyu Ding
+  - Yao Mu, Shoufa Chen, Mingyu Ding, Jianyu Chen, Runjian Chen, Ping Luo
   - Publisher: ICLM 2022 (Spotlight)
   - Key: Reinforcement Learning, Transfer Learning, Representation Learning
   - Code: [official](https://github.com/YaoMarkMu/CtrlFormer_robotic), [simplified single task version](https://github.com/YaoMarkMu/ViT4RL)
